@@ -1,28 +1,57 @@
 # homework1
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+ <title>CV code</title><b><h1><i><u>Make CV on html</u></i></h1></b>
 </head>
 <body>
-    <h1 href="home">Welcome to My Portfolio</h1>
-   
-    <div>
-        <ul>
-<li>home</li>
+<div class="container">
+<header>
+<h1>Tayyaba Altaf</h1>
+<h1>Computer Science</h1>
 
-    
-    <p>Here is my photo:</p>
-    <img src="c:\Users\Lataisha\Downloads\web dev.webp" alt="My photo" width="300" height="300">
-        </ul>
-    </div>
-
-    <h3><a href="Contact.html">co</a></h3>
-    <h3><a href="Experience.html">Experience.html.html</a></h3>
-    <h3><a href="about.html">about.html.html</a></h3>
-    <h3><a href="projects.html">projects.html</a></h3>
-
+</header>
+<section>
+<h2>Personal information</h2>
+<ul>
+<li><strong>Name:</strong> Tayyaba Altaf</li>
+<li><strong>Father name:</strong>Muhammad Altaf</li>
+<li><strong>Email:</strong> itechabdullah@133gmail.com</li>
+<li><strong>Phone:</strong> 03224373356</li>
+<li><strong>Address:</strong> House#19-A,Street#1,AL-Mumtaz Road sammnabad lahore</li>
+<li><strong>District:</strong>Lahore</li>
+<li><strong>Marital status:</strong>Unmarried</li>
+<li><strong>Nationality:</strong>Pakistan</li>
+<li><strong>Gender:</strong>Female</li>
+<li><strong>Date of Birth:</strong>06/10/2005</li>
+<li><strong>Hobbies:</strong>Collecting coins,Hiking</li>
+</ul>
+</section>
+<section>
+<h2>Education</h2>
+<ul>
+<li><strong>Degree:</strong>Intermediate</li>
+<li><strong>Inter complete date:</strong>04-september-2024</li>
+<li><strong>Institution:</strong>Government College</li>
+</ul>
+</section>
+<section>
+<h2>Skills</h2> 
+ <div class="skills">
+<ul>
+<li>MS Office</li>
+<li>Window XP</li>
+<li>Software Installation</li>
+</ul>
+</section>
+<section>
+<h2>Career Objective</h2>
+<ul>
+<li>To work in a challenging environment where my knnwledge and experience can be shared and enriched</li>
+</ul>
+</section>
 </body>
 </html>
+
+
+   
